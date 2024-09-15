@@ -1,0 +1,103 @@
+.header {
+    text-align: center;
+    background-color: powderblue;
+    padding:70px;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+#my_image {
+
+    display: block;
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main {
+    margin: 15px;
+    text-align: center;
+}
+#button {
+    background-color: powderblue; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin: 25px;
+    background-color: white; 
+    color: black; 
+    border: 2px solid powderblue;
+    border-radius: 10px;
+}
+#button:hover {
+    background-color:powderblue;
+    color: white;
+}
+
+.my_hobbies {
+background-color: aliceblue;
+border-radius: 10px;
+display: inline-block;
+text-align: left;
+padding: 15px
+}
+.images {
+    padding-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#image_coding {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 3px;
+}
+#image_pixel_art {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 3px;
+}
+#image_books{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 3px;
+}
+.main h3 {
+    text-align: center;
+    margin: 30px;
+}
+.description {
+    background-color: aliceblue;
+    padding: 2px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.links {
+    text-align: center;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    font-size: x-large;
+}
+#title_links {
+background-color: powderblue;
+color: white;
+padding: 15px;
+}
+
+.footer {
+    text-align: center;
+    background-color: powderblue;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+}
